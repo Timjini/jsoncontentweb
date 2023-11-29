@@ -1,0 +1,35 @@
+{
+    "coverImage": "",
+    "title": "Nous sommes ravis de vous présenter notre service d'évaluation de profils pour les étudiants souhaitant poursuivre leurs études supérieures à l'étranger.",
+    "description": "Notre objectif est de vous fournir une évaluation détaillée et personnelle de votre profil académique, linguistique, et des compétences clés nécessaires pour réussir vos études à l'étranger.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "Analyse académique",
+        "description": "Nous examinerons vos résultats scolaires actuels, y compris vos notes, classement académique et les matières que vous avez étudiées. Nous évaluerons également la pertinence de votre choix de programme d'études à l'étranger en fonction de vos antécédents académiques et de vos objectifs de carrière."
+      },
+      {
+        "order": 2,
+        "title": "Évaluation linguistique",
+        "description": "Nous évaluerons également vos compétences linguistiques, car elles joueront un rôle crucial dans votre réussite à l'étranger. Si vous envisagez d'étudier dans un pays où la langue d'enseignement n'est pas votre langue maternelle, nous évaluerons votre niveau de maîtrise de la langue et vous fournirons des recommandations pour améliorer vos compétences linguistiques."
+      },
+      {
+        "order": 3,
+        "title": "Analyse des compétences professionnelles",
+        "description": "Outre les compétences académiques et linguistiques, nous tiendrons également compte de vos compétences professionnelles et de vos expériences passées. Cela pourrait inclure des stages, des projets d'équipe, des activités de bénévolat et des certifications professionnelles. Nous évaluerons comment ces compétences peuvent contribuer à votre réussite dans vos études supérieures et comment elles pourraient vous aider à vous démarquer sur le marché du travail une fois votre diplôme obtenu."
+      },
+      {
+        "order": 4,
+        "title": "Évaluation des intérêts et de la motivation",
+        "description": "Nous considérons également votre motivation et vos intérêts personnels. Comprendre ce qui vous passionne et ce qui vous motive dans votre choix d'études supérieures à l'étranger est essentiel pour trouver le programme qui vous convient le mieux."
+      }
+    ],
+    "additionalInfo": [
+       "Plan d'action personnalisé",
+      "Une fois que nous aurons réalisé l'évaluation de votre profil, notre équipe vous fournira un rapport détaillé et un plan d'action personnalisé. Ce plan d'action comprendra des recommandations sur les meilleurs pays, universités, programmes d'études et éventuelles spécialisations qui seraient les plus adaptés à votre profil. Nous vous donnerons également des conseils pour améliorer vos compétences linguistiques, académiques et professionnelles, le cas échéant, le but est de vous aider à atteindre vos objectifs d'études supérieures à l'étranger.",
+      "Nous serons à vos côtés tout au long du processus pour vous guider, répondre à vos questions et vous offrir un soutien continu.",
+      "Nous sommes impatients de vous aider à réaliser vos rêves d'études supérieures à l'étranger.",
+      "N'hésitez pas à nous contacter pour plus d'informations ou pour commencer le processus d'évaluation de votre profil."
+    ]
+  }
+  

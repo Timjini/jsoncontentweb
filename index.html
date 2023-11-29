@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Canada</title>
+        <meta charset="utf-8">
+        <!-- small size  -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- bootstrap cdn -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+            crossorigin="anonymous"></script>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+                integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+        <link href="./styles/main.css" rel="stylesheet">
+    </head>
+    <body>
+        <input type="text" id="country-search" placeholder="Search for a country" value="canada" />
+
+        <div class="country-page p-5">
+            <div>
+            <div id="country-container" data-json="./json/education/canada.json">
+                <img class="img-fluid country_img" alt="etudier au Canada" />
+                <div class="pt-4">
+                    <h4 class="country-title"></h4>
+                    <p class="country-description"></p>
+                    <hr />
+                    <ul class="mt-5">
+                        <!-- JavaScript will populate this list -->
+                    </ul>
+                    <div class="additional-info">
+                        <!-- JavaScript will populate additional information here -->
+                    </div>
+                </div>
+            </div>
+        
+            </div>
+            <div class="mt-3 sidebar p-3">
+                <ul id="country-list" data-json="./json/countries-list.json">
+                    <!-- JavaScript will populate this list -->
+                </ul>
+                <div style="margin-top: 200px;">
+                    <div class="action_card">
+                        <div>
+                            <h4 class="display-7 text-center text-white mb-5">Inscrivez-vous à notre newsletter</h4>
+                            <p class="text-center text-white"> Recevez les dernières mises à jour et offres spéciales </p>
+                        </div>
+                        <button type="button" class="action_btn">S'inscrire</button>
+                    </div>
+                </div>
+            </div>
+        
+            <div class="container">
+                <div class="subscription">
+                    <div class="content_sub mt-5">
+                        <span>En savoir plus sur l'immigration et les études à l'étranger</span>
+                        <button class="bg-red-700 text-white px-4 py-2 rounded-r-md">Contactez Nous</button>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+    <script src="./javascript/sidebaritems.js"></script>
+
+    <script>
+        // document.addEventListener('DOMContentLoaded', function () {
+        //         // Function to update the data-json attribute and load content
+        //         function updateJsonUrlAndLoadContent() {
+        //             var inputValue = document.getElementById('country-search').value;
+        //             var newJsonUrl = './json/education/' + inputValue + '.json';
+
+        //             document.getElementById('country-container').setAttribute('data-json', newJsonUrl);
+
+        //             // Fetch and load content from the new URL
+        //             fetch(newJsonUrl)
+        //                 .then(response => response.json())
+        //                 .then(data => {
+        //                     // Assuming 'data' is the content you want to display
+        //                     // You can update this part based on your actual content structure
+        //                     document.getElementById('country-container').innerHTML = JSON.stringify(data);
+        //                 })
+        //                 .catch(error => console.error('Error fetching data:', error));
+        //         }
+
+        //         // Event listener for input changes
+        //         document.getElementById('country-search').addEventListener('input', function () {
+        //             updateJsonUrlAndLoadContent();
+        //         });
+
+        //         // Initial update and content load based on the default input value
+        //         updateJsonUrlAndLoadContent();
+        //     });
+    </script>
+
+    </body>
+</html>

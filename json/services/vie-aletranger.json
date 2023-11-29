@@ -1,0 +1,39 @@
+{
+    "coverImage": "",
+    "title": "La préparation à la vie à l'étranger",
+    "description": "La préparation à la vie à l'étranger vise à fournir aux étudiants les connaissances, les compétences et les ressources nécessaires pour réussir leur transition vers un nouvel environnement culturel et éducatif à l'étranger.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "Orientation culturelle",
+        "description": "Nous offrons aux étudiants une formation sur la culture, les coutumes et les traditions du pays dans lequel ils prévoient de poursuivre leurs études, cela leur permet de mieux comprendre et de s'adapter aux différences culturelles, évitant ainsi les malentendus et les chocs culturels."
+      },
+      {
+        "order": 2,
+        "title": "Logement et installations",
+        "description": "Nous aidons les étudiants à trouver un logement approprié, que ce soit en résidence universitaire ou en colocation avec d’autres étudiants. Nous leur fournissons également des informations sur les installations disponibles sur le campus et dans les environs, comme les bibliothèques, les centres sportifs, les services de santé, etc."
+      },
+      {
+        "order": 3,
+        "title": "Soutien linguistique",
+        "description": "Si les étudiants doivent apprendre une nouvelle langue pour étudier à l'étranger, nous offrons des cours de langue adaptés à leurs besoins et les aidons à améliorer leurs compétences linguistiques pour qu'ils puissent communiquer efficacement avec leurs camarades de classe, les professeurs et les membres de la communauté locale."
+      },
+      {
+        "order": 4,
+        "title": "Conseils financiers",
+        "description": "Nous fournissons des informations sur les coûts de la vie à l'étranger, y compris les frais de scolarité, l'hébergement, les repas, les transports et les dépenses personnelles. Nous aidons les étudiants à élaborer un budget réaliste et à rechercher des possibilités de financement, comme des bourses d'études, des prêts étudiants ou des emplois à temps partiel."
+      },
+      {
+        "order": 5,
+        "title": "Santé et bien-être",
+        "description": "Nous informons les étudiants sur les soins de santé disponibles dans leur pays d'accueil et les exigences en matière d'assurance maladie."
+      },
+      {
+        "order": 6,
+        "title": "Intégration sociale",
+        "description": "Nous proposons des conseils sur la vie sociale et les activités étudiantes disponibles dans le pays d'accueil. Nous encourageons les étudiants à participer à des clubs, des organisations étudiantes et des événements culturels pour rencontrer de nouvelles personnes et créer des liens sociaux."
+      }
+    ],
+    "additionalInfo": "Notre objectif est de préparer les étudiants à s'adapter rapidement et efficacement à leur nouvel environnement, afin qu'ils puissent profiter pleinement de leur expérience à l'étranger. Nous fournissons un soutien continu tout au long de leur séjour et nous nous assurons qu'ils se sentent soutenus et en confiance dans leur nouvelle vie à l'étranger."
+  }
+  

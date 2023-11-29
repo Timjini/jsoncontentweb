@@ -1,0 +1,38 @@
+{
+    "coverImage": "",
+    "title": "Nous sommes ravis de vous présenter notre service de recherche de bourses scolaires et universitaires.",
+    "description": "Notre objectif est de vous accompagner tout au long du processus de recherche de bourses, en vous fournissant des ressources et des conseils personnalisés pour maximiser vos chances de succès et vous aider à trouver des opportunités de financement pour vos études et à alléger le fardeau financier lié à l'éducation.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "-Identification des bourses disponibles",
+        "description": "Nous effectuons une recherche approfondie pour trouver des bourses correspondant à votre profil académique, vos intérêts, votre situation financière et votre parcours scolaire. Nous vous fournissons une liste complète de bourses potentielles, en mettant en évidence les critères d'éligibilité, les dates limites et les exigences de chaque bourse."
+      },
+      {
+        "order": 2,
+        "title": "-Aide à la candidature",
+        "description": "Nous vous guidons à travers le processus de candidature pour chaque bourse, en vous fournissant des conseils sur la rédaction de lettres de motivation, la préparation de CV (curriculum vitae), la collecte des documents requis et la soumission des demandes dans les délais impartis. Nous vous aidons à optimiser votre candidature afin de maximiser vos chances de réussite."
+      },
+      {
+        "order": 3,
+        "title": "-Soutien pour les entretiens",
+        "description": "Si vous êtes sélectionné pour une bourse nécessitant un entretien, nous vous offrons des conseils et des coachings pour vous préparer efficacement. Nous vous aidons à identifier les questions probables, à élaborer des réponses solides et à vous exercer à travers des simulations d'entretiens."
+      },
+      {
+        "order": 4,
+        "title": "-Informations sur les ressources financières complémentaires",
+        "description": "En plus de la recherche de bourses, nous vous fournissons des informations sur d'autres sources de financement, telles que les prêts étudiants, les subventions gouvernementales, les bourses offertes par des organisations privées, etc. Nous vous aidons à explorer toutes les options disponibles pour répondre à vos besoins financiers."
+      },
+      {
+        "order": 5,
+        "title": "-Suivi et mise à jour des nouvelles opportunités de bourse",
+        "description": "Nous restons constamment à l'affût de nouvelles opportunités de bourses et nous vous tenons régulièrement informé des mises à jour. Que vous soyez à la recherche d'une bourse pour une licence, une maîtrise, un doctorat ou pour toute autre formation, nous vous aidons à trouver les dernières opportunités correspondant à vos besoins."
+      }
+    ],
+    "additionalInfo": [
+      "Notre équipe d'experts en recherche de bourses scolaires et universitaires est là pour vous fournir un soutien personnalisé, en tenant compte de vos besoins spécifiques.",
+      "Nous croyons que l'accès à l'éducation devrait être ouvert à tous, indépendamment des contraintes financières, et nous nous engageons à vous aider dans votre recherche de financement pour vos études.",
+      "N'hésitez pas à nous contacter pour plus d'informations sur notre service de recherche de bourses scolaires et universitaires. Nous sommes impatients de vous aider à trouver des opportunités de financement et à réaliser vos rêves éducatifs."
+    ]
+  }
+  

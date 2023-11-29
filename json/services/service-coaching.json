@@ -1,0 +1,43 @@
+{
+    "coverImage": "",
+    "title": "Nous sommes ravis de vous présenter notre service de coaching scolaire.",
+    "description": "Notre objectif est de vous accompagner tout au long de votre parcours scolaire, en vous fournissant un soutien personnalisé et des outils efficaces pour surmonter les défis et développer les compétences nécessaires à votre réussite pour vous aider à maximiser votre réussite académique et à atteindre vos objectifs scolaires.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "-Développement de vos compétences d'apprentissage",
+        "description": "Nous travaillons avec vous pour identifier vos forces et vos faiblesses en termes de méthodes d'apprentissage. Ensuite, nous vous aidons à développer des stratégies d'étude et des techniques de gestion du temps adaptées à vos besoins et à votre style d'apprentissage."
+      },
+      {
+        "order": 2,
+        "title": "-Gestion du stress et de l'anxiété",
+        "description": "Nous comprenons que le stress et l'anxiété peuvent être des obstacles à votre réussite scolaire. Nous vous offrons des conseils et des techniques pour gérer ces émotions, améliorer votre bien-être mental et maintenir une bonne santé mentale tout au long de votre parcours scolaire."
+      },
+      {
+        "order": 3,
+        "title": "-Planification des tâches et des objectifs",
+        "description": "Nous vous aidons à établir des objectifs clairs et réalisables pour chaque période. Nous vous soutenons également dans la planification de vos tâches et dans l'organisation de votre emploi du temps, de manière à optimiser votre productivité et à éviter la procrastination."
+      },
+      {
+        "order": 4,
+        "title": "-Résolution de problèmes et prise de décisions",
+        "description": "Nous vous apprenons à identifier les problèmes académiques auxquels vous êtes confronté et à trouver des solutions pratiques. Nous vous guidons également dans la prise de décisions éclairées concernant votre orientation scolaire, vos choix de matières et vos options post-graduation."
+      },
+      {
+        "order": 5,
+        "title": "-Préparation aux examens",
+        "description": "Nous vous proposons des techniques de préparation aux examens, y compris la gestion du stress pendant les périodes d'examens, la planification de votre étude, la pratique d'examens simulés et la maîtrise des compétences de prise de notes et de rédaction d'examen."
+      },
+      {
+        "order": 6,
+        "title": "-Soutien émotionnel",
+        "description": "Nous sommes là pour vous écouter et vous soutenir tout au long de votre parcours scolaire. Nous vous encourageons à exprimer vos préoccupations, vos doutes et vos craintes, et nous vous offrons un soutien émotionnel pour vous aider à rester motivé et concentré sur vos objectifs académiques."
+      }
+    ],
+    "additionalInfo": [
+      "Notre équipe et notre coach scolaire expérimentés sont là pour vous fournir un soutien individualisé et adapté à vos besoins spécifiques.",
+      "Nous croyons en votre potentiel et nous nous engageons à vous aider à réaliser vos objectifs scolaires.",
+      "N'hésitez pas à nous contacter pour plus d'informations sur notre service de coaching scolaire. Nous sommes impatients de faire partie de votre réussite scolaire et de vous aider à atteindre vos objectifs académiques."
+    ]
+  }
+  

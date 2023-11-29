@@ -1,0 +1,59 @@
+{
+    "coverImage":"https://easy-studyabroad.com/wp-content/uploads/2021/06/busan-south-korea-PD2LFVZ-768x433.jpg",
+    "title": "Étudier en Corée du Sud",
+    "description": "La Corée du Sud est une destination d'études à l'étranger populaire pour les étudiants internationaux, avec des universités de haute qualité, des programmes internationaux et des opportunités de carrière.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "-Excellence académique",
+        "description": "La Corée du Sud est réputée pour ses institutions académiques de haute qualité, avec des universités bien classées au niveau mondial."
+      },
+      {
+        "order": 2,
+        "title": "-Programmes internationaux",
+        "description": "De nombreuses universités sud-coréennes proposent des programmes de premier cycle et de troisième cycle en anglais, ce qui facilite l'accès aux étudiants internationaux."
+      },
+      {
+        "order": 3,
+        "title": "-Coût abordable",
+        "description": "Les frais de scolarité et le coût de la vie en Corée du Sud sont compétitifs par rapport à d'autres destinations d'études à l'étranger."
+      },
+      {
+        "order": 4,
+        "title": "-Bourses d'études",
+        "description": "Le gouvernement sud-coréen et de nombreuses universités offrent des bourses d'études aux étudiants internationaux talentueux."
+      },
+      {
+        "order": 5,
+        "title": "-Technologie de pointe",
+        "description": "La Corée du Sud est un leader mondial en matière de technologie, offrant aux étudiants l'accès à des infrastructures de pointe et à des ressources technologiques."
+      },
+      {
+        "order": 6,
+        "title": "-Culture riche",
+        "description": "Les étudiants ont l'opportunité de s'immerger dans une culture riche et diversifiée, avec une histoire fascinante, une cuisine délicieuse et une scène artistique dynamique."
+      },
+      {
+        "order": 7,
+        "title": "-Sécurité",
+        "description": "La Corée du Sud est considérée comme l'un des pays les plus sûrs au monde, offrant un environnement d'étude sûr pour les étudiants internationaux."
+      },
+      {
+        "order": 8,
+        "title": "-Réseaux mondiaux",
+        "description": "Étudier en Corée du Sud permet de créer des réseaux internationaux et de collaborer avec des étudiants du monde entier."
+      },
+      {
+        "order": 9,
+        "title": "-Opportunités de carrière",
+        "description": "Le pays est le siège de grandes entreprises mondiales, offrant des opportunités de stages et d'emploi aux diplômés."
+      },
+      {
+        "order": 10,
+        "title": "-Beauté naturelle",
+        "description": "La Corée du Sud offre un paysage naturel spectaculaire, des montagnes aux plages, offrant des possibilités de détente en plein air."
+      }
+    ],
+    "additionalInfo": "Cependant, il est important de noter que le système éducatif sud-coréen peut être exigeant, avec une forte pression académique. Les étudiants internationaux devraient être prêts à relever ce défi tout en profitant des avantages offerts par une expérience d'études en Corée du Sud."
+  }
+  

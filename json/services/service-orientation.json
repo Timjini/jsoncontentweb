@@ -1,0 +1,43 @@
+{
+    "coverImage": "",
+    "title": "Nous sommes ravis de vous présenter notre service d'orientation scolaire.",
+    "description": "Notre objectif est de vous accompagner dans la prise de décision concernant votre parcours scolaire en vous offrant un soutien personnalisé et des conseils éclairés.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "Évaluation des intérêts et des aptitudes",
+        "description": "Nous commençons par réaliser une évaluation approfondie de vos intérêts, de vos talents et de vos préférences. Cette évaluation nous permettra de mieux vous connaître et de vous aider à explorer les différentes options qui correspondent à vos aspirations."
+      },
+      {
+        "order": 2,
+        "title": "Analyse des résultats scolaires",
+        "description": "Nous examinons vos résultats scolaires actuels, y compris vos notes, vos classements, ainsi que vos performances dans différentes matières. En analysant vos réalisations, nous pourrons identifier vos forces et vos domaines d'amélioration."
+      },
+      {
+        "order": 3,
+        "title": "Identification des objectifs et des aspirations",
+        "description": "Nous travaillons avec vous pour définir vos objectifs académiques et professionnels à long terme. Comprendre ce que vous souhaitez réaliser dans votre parcours éducatif est essentiel pour vous orienter vers les programmes et les institutions les plus adaptés."
+      },
+      {
+        "order": 4,
+        "title": "Recherche des options éducatives",
+        "description": "Nous effectuons une recherche minutieuse sur les différentes options éducatives disponibles, que ce soit des universités, collèges, écoles spécialisées ou programmes de formation professionnelle. Nous évaluons leur réputation, pertinence par rapport à vos objectifs et exigences d'admission."
+      },
+      {
+        "order": 5,
+        "title": "Guidance sur les demandes d'admission",
+        "description": "Nous vous aiderons à naviguer à travers le processus de candidature en vous fournissant des conseils sur la rédaction de vos lettres de motivation, la préparation de votre CV académique, et la collecte des documents requis pour faire en sorte que votre candidature soit solide et convaincante."
+      },
+      {
+        "order": 6,
+        "title": "Soutien continu",
+        "description": "Notre soutien ne s'arrête pas après avoir choisi un parcours éducatif. Nous restons à vos côtés tout au long du processus, en répondant à vos questions et en vous offrant des conseils utiles pour réussir vos études."
+      }
+    ],
+    "additionalInfo": [
+      "En travaillant avec notre équipe d'experts en orientation scolaire, vous bénéficierez d'un soutien personnalisé et d'une expertise dans le domaine de l'éducation.",
+      "Nous nous engageons à vous guider tout au long de votre parcours scolaire et à vous aider à prendre des décisions éclairées pour votre avenir.",
+      "N'hésitez pas à nous contacter pour plus d'informations sur notre service d'orientation scolaire. Nous sommes impatients de vous aider à atteindre vos objectifs éducatifs et à réaliser votre plein potentiel."
+    ]
+  }
+  

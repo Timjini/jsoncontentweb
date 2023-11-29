@@ -1,0 +1,48 @@
+{
+    "coverImage": "",
+    "title": "Bienvenue au service d'inscriptions et d'admissions internationales pour les écoles, collèges et universités à l'étranger !",
+    "description": "Nous sommes là pour faciliter votre processus d'inscription et vous aider à réaliser votre rêve d'étudier à l'étranger. Nous comprenons que le processus d'inscription et d'admission dans une école, un collège ou une université à l'étranger peut être complexe et intimidant, c'est pourquoi nous avons créé ce service pour vous accompagner à chaque étape, de la recherche des établissements à l'obtention de votre admission.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "-Exploration des établissements",
+        "description": "Notre base de données comprend une grande variété d'écoles, de collèges et d'universités à travers le monde grâce aux partenariats signés avec ces établissements. Vous pouvez utiliser demander les services de nos conseillers pour rechercher des établissements correspondant à vos critères, tels que le pays, la spécialisation, les frais de scolarité, etc. Vous pouvez également avoir accès aux descriptions détaillées sur chaque établissement et consulter les avis des étudiants actuels et anciens."
+      },
+      {
+        "order": 2,
+        "title": "-Assistance pour le processus d'inscription",
+        "description": "Une fois que vous avez identifié les établissements qui vous intéressent, nous vous guidons à travers le processus d'inscription. Nous fournissons des informations sur les exigences d'admission, les formulaires à remplir, les documents à soumettre, et bien plus encore. Notre équipe est également là pour répondre à toutes vos questions et vous fournir une assistance personnalisée."
+      },
+      {
+        "order": 3,
+        "title": "-Préparation des documents",
+        "description": "Nous vous aidons à préparer tous les documents nécessaires à votre admission, tels que les relevés de notes, les lettres de recommandation, les essais personnels, etc. Si vous rencontrez des difficultés pour obtenir certains documents, nous vous proposons des solutions alternatives pour éviter tout retard dans votre processus d'admission."
+      },
+      {
+        "order": 4,
+        "title": "-Traductions et certifications",
+        "description": "Si vos documents doivent être traduits ou certifiés, notre service peut vous aider. Nous collaborons avec des traducteurs et des organismes de certification fiables pour garantir l'exactitude et la validité de vos documents."
+      },
+      {
+        "order": 5,
+        "title": "-Candidatures et suivi",
+        "description": "Une fois que vous avez réuni tous les documents requis, nous vous aidons à soumettre vos candidatures aux établissements de votre choix. Nous assurons également le suivi auprès des établissements pour nous assurer que votre candidature est prise en compte et traitée dans les délais impartis."
+      },
+      {
+        "order": 6,
+        "title": "-Préparation aux entretiens",
+        "description": "Si des entretiens sont nécessaires pour votre admission, nous vous offrons des conseils et des ressources pour vous préparer de manière optimale. Nous pouvons même organiser des sessions de préparation aux entretiens avec des professionnels expérimentés pour vous assurer de bien vous présenter."
+      },
+      {
+        "order": 7,
+        "title": "-Assistance financière",
+        "description": "Nous comprenons que les questions financières peuvent être un aspect crucial de votre processus d'admission. Nos conseillers peuvent vous fournir des informations sur les bourses d'études, les prêts étudiants et les autres options de financement disponibles."
+      }
+    ],
+    "additionalInfo": [
+      "Notre objectif est de vous aider à réaliser votre rêve d'étudier à l'étranger en rendant le processus d'inscription et d'admission aussi fluide que possible. Nous sommes là pour vous soutenir tout au long du chemin et pour répondre à toutes vos questions.",
+      "N'hésitez pas à explorer notre service d'inscriptions et d'admissions internationales pour les écoles, collèges et universités à l'étranger.",
+      "Nous sommes ravis de vous aider à concrétiser vos projets d'études à l'étranger et à ouvrir de nouvelles opportunités pour votre avenir académique et professionnel."
+    ]
+  }
+  

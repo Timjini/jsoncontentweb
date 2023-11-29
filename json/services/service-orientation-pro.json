@@ -1,0 +1,43 @@
+{
+    "coverImage": "",
+    "title": "Nous avons le plaisir de vous présenter notre service d'orientation professionnelle.",
+    "description": "Notre objectif est de vous aider à définir vos objectifs professionnels, à identifier les compétences nécessaires et à vous guider dans les différentes étapes de votre parcours vers la réussite professionnelle.",
+    "listItems": [
+      {
+        "order": 1,
+        "title": "Identification des intérêts et des aptitudes",
+        "description": "Nous commençons par évaluer vos intérêts, vos aptitudes personnelles et vos valeurs. Cette évaluation approfondie nous permettra de mieux vous connaître et de vous aider à trouver des domaines de carrière qui vous correspondent."
+      },
+      {
+        "order": 2,
+        "title": "Exploration des options professionnelles",
+        "description": "Nous vous aidons à explorer différentes industries, métiers et opportunités professionnelles. Nous vous fournirons des informations détaillées sur les perspectives d'emploi, les compétences requises et les formations nécessaires pour chaque domaine."
+      },
+      {
+        "order": 3,
+        "title": "Analyse des compétences et des lacunes",
+        "description": "Nous analysons vos compétences actuelles et identifions les lacunes éventuelles qui pourraient entraver votre réussite professionnelle. Sur cette base, nous vous proposons des formations, des stages ou des expériences qui vous permettront de développer les compétences nécessaires pour atteindre vos objectifs."
+      },
+      {
+        "order": 4,
+        "title": "Construction d'un plan de carrière",
+        "description": "En fonction de vos intérêts, de vos compétences et de vos aspirations, nous vous aidons à élaborer un plan de carrière clair et réalisable. Ce plan comprendra des étapes et des objectifs spécifiques pour vous guider vers votre réussite professionnelle."
+      },
+      {
+        "order": 5,
+        "title": "Accompagnement dans la recherche d'emploi",
+        "description": "Nous vous accompagnons dans la préparation de votre CV, de votre lettre de motivation et de vos entretiens d'embauche. Nous vous donnons également des conseils sur les techniques de recherche d'emploi, le réseautage et la gestion de votre présence en ligne."
+      },
+      {
+        "order": 6,
+        "title": "Soutien continu",
+        "description": "Notre soutien ne s'arrête pas une fois que vous avez trouvé un emploi. Nous restons à vos côtés pour vous aider à vous adapter à votre nouveau rôle, à vous orienter dans votre carrière et à relever les défis professionnels qui se présentent à vous."
+      }
+    ],
+    "additionalInfo": [
+      "En travaillant avec notre équipe d'experts en orientation professionnelle, vous bénéficierez d'un encadrement personnalisé pour vous aider à atteindre vos objectifs professionnels.",
+      "Nous nous engageons à vous soutenir tout au long de votre parcours et à vous aider à prendre les bonnes décisions pour votre réussite.",
+      "N'hésitez pas à nous contacter pour plus d'informations sur notre service d'orientation professionnelle. Nous sommes impatients de vous aider à réaliser votre plein potentiel professionnel."
+    ]
+  }
+  
